@@ -1,2 +1,2 @@
 # SFHelpers
-Fundamentals Project
+A prototype is worth a thousand discussions.
